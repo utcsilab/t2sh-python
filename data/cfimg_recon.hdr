@@ -1,0 +1,8 @@
+# Dimensions
+1 260 240 1 1 1 4 1 1 1 1 1 1 1 1 1 
+# Command
+t2sh_pics -w 1. -K 4 -R L:7:7:.005 -F -H -i 250 cfksp mask sens bas cfimg_recon 
+# Files
+ >cfimg_recon <bas <sens <mask <cfksp
+# Creator
+BART v0.4.01-107-geaac95e

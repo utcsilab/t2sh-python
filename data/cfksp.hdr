@@ -1,0 +1,8 @@
+# Dimensions
+1 260 240 7 1 1 4 1 1 1 1 1 1 1 1 1 
+# Command
+flip 0 tmp0091 cfksp 
+# Files
+ >cfksp <tmp0091
+# Creator
+BART v0.4.01-107-geaac95e

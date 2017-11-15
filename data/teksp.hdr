@@ -1,0 +1,8 @@
+# Dimensions
+1 260 240 7 1 80 1 1 1 1 1 1 1 1 1 1 
+# Command
+t2sh_prep 3 80 /home/jtamir/t2shuffling-data/nice_cases/11Mar17_Ex21928_Ser3/vieworder_sort.txt.311140828 /home/jtamir/t2shuffling-data/nice_cases/11Mar17_Ex21928_Ser3/vieworder_sort_dab.txt.311140828 ../ksp-fft-150 teksp 
+# Files
+ >teksp <../ksp-fft-150
+# Creator
+BART v0.4.01-107-geaac95e
